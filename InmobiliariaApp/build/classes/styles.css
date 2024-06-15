@@ -1,0 +1,24 @@
+/* Estilo para botones */
+.styled-button {
+    -fx-background-color: #4CAF50; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-font-size: 14px; /* Tamaño de la fuente */
+    -fx-padding: 8px 16px; /* Padding (espacio interno) */
+    -fx-background-radius: 4px; /* Redondeado de bordes */
+    -fx-border-width: 1px; /* Grosor del borde */
+    -fx-border-color: #388E3C; /* Color del borde */
+}
+
+.styled-button:hover {
+    -fx-background-color: #45A049; /* Cambio de color al pasar el mouse */
+}
+
+/* Estilo para formularios */
+.styled-form {
+    -fx-background-color: #f2f2f2; /* Color de fondo */
+    -fx-padding: 20px; /* Padding (espacio interno) */
+    -fx-spacing: 10px; /* Espacio entre componentes */
+    -fx-border-width: 1px; /* Grosor del borde */
+    -fx-border-color: #ddd; /* Color del borde */
+    -fx-border-radius: 4px; /* Redondeado de bordes */
+}
